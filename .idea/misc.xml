@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Christian/Documents/Development/TipTime/app/src/main/res/drawable/ic_round_up.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/Christian/Documents/Development/TipTime/app/src/main/res/drawable/ic_service.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/Christian/Documents/Development/TipTime/app/src/main/res/drawable/ic_store.xml" value="0.13518518518518519" />
         <entry key="..\:/Users/Christian/Documents/Development/TipTime/app/src/main/res/layout/activity_main.xml" value="0.21" />
       </map>
     </option>
